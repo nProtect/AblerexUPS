@@ -23,4 +23,5 @@ Tested on Ablerex RS-RT 2000 and working.
 3. UPS Status such as Input/Output voltage will show up and also UPS information
 
 This app created on Visual Studio 2017 and using .NET Framework 4.5
+
 Pull requrest are welcome!
