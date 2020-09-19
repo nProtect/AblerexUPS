@@ -22,6 +22,18 @@ Tested on Ablerex RS-RT 2000 and working.
 2. Start program, choost COM port and click "Connect"
 3. UPS Status such as Input/Output voltage will show up and also UPS information
 
+# UPS Adjustment
+1. Click on "Change UPS Settings"
+2. Wait program to read current settings for a while
+3. You can change UPS settings and click "Write"
+4. You will hear 2 short beep on UPS device, turn it off and turn on again to take effect.
+
+**CF50, CF60 means convert frequency to 50/60 Hz
+
+**Normal Mode = Full True-Online double conversation
+
+**ECO Mode = While AC avaiable, UPS will change to Bypass mode, if AC loss UPS switch to normal mode until AC power back. (aka. Line Interactive Mode)
+
 This app created on Visual Studio 2017 and using .NET Framework 4.5
 
 Pull requrest are welcome!
