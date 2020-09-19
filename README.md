@@ -9,7 +9,7 @@ This program connect to Ablerex RS-RT Series UPS to monitor UPS status and chang
 - RS232 to USB cable
 
 Since offical Ablerex program (Emily2 Monitor Software) didn't provide output voltage adjustment.
-so I created own by reverse engineer UPS's microcontroller and decide to share to public.
+so I created own and decide to share to public.
 
 # This program may work with other Ablerex UPS model, Please use at your own risk!
 
