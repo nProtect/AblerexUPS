@@ -35,9 +35,9 @@ namespace AblerexUpsApp
                 string szCommand = "Mzzzz" +
                     comboBox1.SelectedIndex.ToString() +
                     comboBox2.SelectedIndex.ToString() +
-                    "04" +
+                    "04" + //Battery Count, RS-RT 2000 has 4 batteries inside and need to put 4.
                     comboBox3.SelectedIndex.ToString() +
-                    "00" +
+                    "00" + //Unknow Value
                     comboBox4.SelectedIndex.ToString() +
                     comboBox5.SelectedIndex.ToString() +
                     comboBox6.SelectedIndex.ToString() + "99999999";
