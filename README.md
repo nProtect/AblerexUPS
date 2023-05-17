@@ -19,7 +19,7 @@ Tested on Ablerex RS-RT 2000 and working.
 
 # Step to use
 1. Connect RS232 header to back panel and connect USB to your PC
-2. Start program, choost COM port and click "Connect"
+2. Start program, choose COM port and click "Connect"
 3. UPS Status such as Input/Output voltage will show up and also UPS information
 
 # UPS Adjustment
